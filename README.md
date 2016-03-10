@@ -3,6 +3,7 @@ Qr code encapsulation and use
 #
 
 项目中直接引用jar包使用
+#
 1、在主 build.gradle中添加
 allprojects {
     repositories {
